@@ -16,7 +16,7 @@ int main(){
 	
 	// Opening file and put into array
 	FILE *file;
-	if((file = fopen("values_to_ordenate.txt", "r")) == NULL) {
+	if((file = fopen("values_to_ordinate.txt", "r")) == NULL) {
 		printf("It's no possible to open the file\n");
 		exit(1);
 	} else {
