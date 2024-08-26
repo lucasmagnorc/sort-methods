@@ -1,8 +1,8 @@
-# ordenation_methods
+# sort methods
 
 ## What are?
 
-Ordination methods are a techniques to sort datas. With they you can resolve many problems and optimize some algorithms, but it's necessary analyze which is better to you implement.
+Sort methods are a techniques to sort datas. With they you can resolve many problems and optimize some algorithms, but it's necessary analyze which is better to you implement.
 
 ## Why?
 
